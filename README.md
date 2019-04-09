@@ -1,6 +1,7 @@
 # Shaggy-VS-Squidward (WIP)
 
-2d java based fighting game, currently needs a lot more refining such as (attack/blocking logic, cooldowns, better gfx, extend upgrade system, gamemodes). A true work in progress 
+My first 2d java based fighting game, currently needs a lot more refining such as (attack/blocking logic, cooldowns, better gfx, extend upgrade system, gamemodes). A true work in progress.
+Creating this project while learning SQL, and javafx on the way was extremly fun. I do plan to improve and fix certain bugs in the game when I have the free time.
 
 
 # TODO:
