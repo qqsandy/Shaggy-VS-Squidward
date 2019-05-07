@@ -46,7 +46,7 @@ public class Main extends Application {
     // This stage will contain upgrade information along with the current coin balance in the database
     public void purchaseConfirm(Stage primaryStage){
 
-        // Insantiation of the data object, used to retrieve data and use methods in the database class.
+        // Instantiation of the data object, used to retrieve data and use methods in the database class.
         Database sql = new Database();
 
         // This method will update the current coins to be loaded for future use such as displaying and purchasing

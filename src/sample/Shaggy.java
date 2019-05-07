@@ -30,5 +30,4 @@ public class Shaggy extends Character {
         damagedLeft = new Image ("shaggy_damaged_left.png");
         damagedRight = new Image ("shaggy_damaged_right.png");
     }
-
 }
